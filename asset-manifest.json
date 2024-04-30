@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Natividad-Portfolio/static/css/main.4c90586c.css",
-    "main.js": "/Natividad-Portfolio/static/js/main.88281b7d.js",
+    "main.js": "/Natividad-Portfolio/static/js/main.dcff0799.js",
     "static/js/415.4d6acbeb.chunk.js": "/Natividad-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Natividad-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/RailJapanX.png": "/Natividad-Portfolio/static/media/RailJapanX.b5c0567b9a3e5fff739c.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/Natividad-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Natividad-Portfolio/index.html",
     "main.4c90586c.css.map": "/Natividad-Portfolio/static/css/main.4c90586c.css.map",
-    "main.88281b7d.js.map": "/Natividad-Portfolio/static/js/main.88281b7d.js.map",
+    "main.dcff0799.js.map": "/Natividad-Portfolio/static/js/main.dcff0799.js.map",
     "415.4d6acbeb.chunk.js.map": "/Natividad-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Natividad-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c90586c.css",
-    "static/js/main.88281b7d.js"
+    "static/js/main.dcff0799.js"
   ]
 }
