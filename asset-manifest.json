@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Natividad-Portfolio/static/css/main.4c90586c.css",
+    "main.js": "/Natividad-Portfolio/static/js/main.88281b7d.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Natividad-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Natividad-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/RailJapanX.png": "/Natividad-Portfolio/static/media/RailJapanX.b5c0567b9a3e5fff739c.png",
+    "static/media/rhy_icon.png": "/Natividad-Portfolio/static/media/rhy_icon.69ed6afb3d317a9f244b.png",
+    "static/media/caiuo.png": "/Natividad-Portfolio/static/media/caiuo.39d338efb2d1018d0cda.png",
+    "static/media/Natividad_Rhy_Resume.pdf": "/Natividad-Portfolio/static/media/Natividad_Rhy_Resume.24d109f395e89caca326.pdf",
+    "static/media/onlyinterns-logo.png": "/Natividad-Portfolio/static/media/onlyinterns-logo.7a79c87a37cf9e0004c1.png",
+    "static/media/home-main.svg": "/Natividad-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Natividad-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/BobRoss.jpg": "/Natividad-Portfolio/static/media/BobRoss.87e57d24ea83fb0d34da.jpg",
+    "static/media/home-bg.jpg": "/Natividad-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/acresite.png": "/Natividad-Portfolio/static/media/acresite.7b695acd4b940b90e300.png",
+    "static/media/riceYieldPrediction.jpeg": "/Natividad-Portfolio/static/media/riceYieldPrediction.f90cd4306b5b5b0f9dd0.jpeg",
+    "static/media/pre.svg": "/Natividad-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Natividad-Portfolio/index.html",
+    "main.4c90586c.css.map": "/Natividad-Portfolio/static/css/main.4c90586c.css.map",
+    "main.88281b7d.js.map": "/Natividad-Portfolio/static/js/main.88281b7d.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Natividad-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Natividad-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c90586c.css",
+    "static/js/main.88281b7d.js"
+  ]
+}
